@@ -1,0 +1,10 @@
+C:\Users\julissa\source\repos\practica0609\Practica070921\bin\Debug\Practica070921.exe.config
+C:\Users\julissa\source\repos\practica0609\Practica070921\bin\Debug\Practica070921.exe
+C:\Users\julissa\source\repos\practica0609\Practica070921\bin\Debug\Practica070921.pdb
+C:\Users\julissa\source\repos\practica0609\Practica070921\obj\Debug\Practica070921.csproj.AssemblyReference.cache
+C:\Users\julissa\source\repos\practica0609\Practica070921\obj\Debug\Practica070921.Form1.resources
+C:\Users\julissa\source\repos\practica0609\Practica070921\obj\Debug\Practica070921.Properties.Resources.resources
+C:\Users\julissa\source\repos\practica0609\Practica070921\obj\Debug\Practica070921.csproj.GenerateResource.cache
+C:\Users\julissa\source\repos\practica0609\Practica070921\obj\Debug\Practica070921.csproj.CoreCompileInputs.cache
+C:\Users\julissa\source\repos\practica0609\Practica070921\obj\Debug\Practica070921.exe
+C:\Users\julissa\source\repos\practica0609\Practica070921\obj\Debug\Practica070921.pdb
